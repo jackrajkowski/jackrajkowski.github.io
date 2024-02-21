@@ -22,7 +22,7 @@
 
 ## Projects
 ### Foodhub Data Analysis
-[Publication](file:///Users/jackrajkowski/Downloads/PYF_Project_LearnerNotebook_FullCode-JackRajkowski.html)
+[Publication]
 
 ### AllLife Bank Personal Loan Campaign
 ### Credit Card Users Churn Prediction
