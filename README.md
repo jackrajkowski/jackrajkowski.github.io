@@ -21,8 +21,8 @@
 - Integrated QlikView dashboards with headcount data to automatically portray the monthly corporate makeup by Department, Cost Center, Corporate Title, etc.
 
 ## Projects
-[Foodhub Data Analysis](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/FoodHub_Data_Analysis.ipynb)
-[AllLife Bank Personal Loan Campaign](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/AllLife_Bank_Classification_JackRajkowski.ipynb)
+- [Foodhub Data Analysis](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/FoodHub_Data_Analysis.ipynb)
+- [AllLife Bank Personal Loan Campaign](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/AllLife_Bank_Classification_JackRajkowski.ipynb)
 ### Credit Card Users Churn Prediction
-[Bank Churn Prediction: Neural Networks](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/Bank_Churn_Prediction_JackRajkowski.ipynb)
-[Plant Seedlings Classification](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/Plant_Seedling_Classification_JackRajkowski.ipynb)
+- [Bank Churn Prediction: Neural Networks](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/Bank_Churn_Prediction_JackRajkowski.ipynb)
+- [Plant Seedlings Classification](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/Plant_Seedling_Classification_JackRajkowski.ipynb)
