@@ -21,9 +21,7 @@
 - Integrated QlikView dashboards with headcount data to automatically portray the monthly corporate makeup by Department, Cost Center, Corporate Title, etc.
 
 ## Projects
-### Foodhub Data Analysis
-[Publication]
-
+### [Foodhub Data Analysis] (Projects/FoodHub_Data_Analysis.ipynb)
 ### AllLife Bank Personal Loan Campaign
 ### Credit Card Users Churn Prediction
 ### Bank Churn prediction: Neural Networks
