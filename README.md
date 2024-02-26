@@ -22,7 +22,7 @@
 
 ## Projects
 ### Foodhub Data Analysis
-[Publication]
+[Publication] (https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Plant_Seedling_Classification_JackRajkowski.html)
 
 ### AllLife Bank Personal Loan Campaign
 ### Credit Card Users Churn Prediction
