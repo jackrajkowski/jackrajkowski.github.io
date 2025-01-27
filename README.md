@@ -1,4 +1,4 @@
-# Data Analyst
+# Business Analytics | Data Storytelling | Process Optimization
 
 #### Technical Skills: Python, R, Excel (Analytic Solver), Power BI, QlikView, Tableau, SPSS, Qualtrics, Wrike, ServiceNow, Salesforce, SalesLoft, Logic Pro, Pro Tools, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects
 
@@ -7,18 +7,23 @@
 - Postgraduate Program, Artificial Intelligence and Machine Learning | The University of Texas, McCombs School of Business (_March 2024_)
 
 ## Work Experience
+**Business Analyst, MedTech NA Strategic Insights @ Johnson & Johnson (_April 2024 - December 2024_)**
+- Served as the key point of contact for managing Jira stories, overseeing creation, updates, and assignments while ensuring each task is properly documented with clear descriptions and acceptance criteria for efficient development and tracking
+- Developed and validated dashboards in Qlik Sense and Tableau focused on Deal Excellence, Contract Performance/Rebates, Sales, and other metrics, enabling users to access and analyze critical data independently
+- Coordinated between business users and the NA Strategic Insights team, gathering requirements, identifying areas for improvement, and ensuring clear communication to support data analysis and reporting needs
+
 **Associate Business Development Representative @ Celonis (_May 2022 - September 2023_)**
-- Generated new business opportunities by communicating the benefits of process mining to key stakeholders within target accounts, specifically within the CPG and Retail industries.
-- Partnered with cross-functional teams to align on tailored messaging and specific value propositions within various supply chain, finance, and process improvement applications.
-- Consolidated diverse data sets, including financial reports, industry statistics, and successful customer narratives to initiate engaging visual storytelling experiences for prospects within the Celonis platform.
+- Generated new business opportunities by communicating the benefits of process mining to key stakeholders within target accounts, specifically within the CPG and Retail industries
+- Partnered with cross-functional teams to align on tailored messaging and specific value propositions within various supply chain, finance, and process improvement applications
+- Consolidated diverse data sets, including financial reports, industry statistics, and successful customer narratives to initiate engaging visual storytelling experiences for prospects within the Celonis platform
 
 **PMO Process Governance Intern @ Valley Bank (_June 2021 - May 2022_)**
-- Formalized bi-weekly Portfolio/Demand Reviews for the Portfolio Directors of Stakeholder Engagement to display data extracted from ServiceNow.
-- Visualized PMO metrics using Power BI, updating Demand/Project data in real-time to display how initiatives were progressing against their projected timelines.
-- Collaborated with IT and PMO personnel to create a RACI matrix, tracking the participation required within each Project’s life cycle.
+- Led bi-weekly Portfolio/Demand Reviews for Portfolio Directors, visualizing real-time PMO metrics in Power BI to track project progress against timelines using data extracted from ServiceNow
+- Partnered with IT and PMO teams to develop a RACI matrix, clearly defining roles and responsibilities throughout the project lifecycle
 
 **Human Resources Intern @ Aflac (_June 2020 - August 2020_)**
-- Integrated QlikView dashboards with headcount data to automatically portray the monthly corporate makeup by Department, Cost Center, Corporate Title, etc.
+- Integrated QlikView dashboards with headcount data to automatically portray the monthly corporate makeup by
+Department, Cost Center, Corporate Title, etc.
 
 ## Projects
 - [Foodhub Data Analysis](https://github.com/jackrajkowski/jackrajkowski.github.io/blob/main/Projects/FoodHub_Data_Analysis.ipynb)
